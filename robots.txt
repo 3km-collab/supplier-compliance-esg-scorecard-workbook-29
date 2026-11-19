@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3km-collab.github.io/supplier-compliance-esg-scorecard-workbook-29/sitemap.xml
